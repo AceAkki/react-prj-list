@@ -1,9 +1,11 @@
+import imgLogo from "src/assets/react.svg"
+
 export default function Header() {
   return (
     <header className="header">
       <nav className="nav-bar">
         <div className="logo-wrap">
-          <img src="/src/assets/react.svg" alt="" className="logo" />
+          <img src={imgLogo} alt="" className="logo" />
           <span className="logo-txt">ReactFacts</span>
         </div>
 
