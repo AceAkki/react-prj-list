@@ -10,10 +10,8 @@ export default function Section () {
 
       </ol>
         <ul className="color-list">
-          <li>Why</li>
-          <li>Need to learn this</li>
-          <li>should have done it long ago its a must now</li>
-
+          <li>works well</li>
+          <li>seems fun</li>
         </ul>
      
     </main>
